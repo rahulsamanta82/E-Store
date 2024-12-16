@@ -11,7 +11,7 @@ export const store = [
         hoverImg: "https://cdn.shopify.com/s/files/1/0081/7374/8305/products/Signature_Foaming_Facial_Cleanser_125ml_OH_01_1_540x.jpg?v=1599504601",
 
     },
-
+    
     {
         id: "2",
         name: "Facial Moisturiser",
